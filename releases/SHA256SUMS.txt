@@ -1,0 +1,8 @@
+# PineHook Release Hashes — append-only history.
+# Format: <64-hex-sha256>  <filename>
+# New releases get a new block under the most recent. Never edit an existing line.
+# Verify the full file at any time with:
+#   sha256sum --check SHA256SUMS.txt
+#
+# For the user-facing guide see:
+#   https://pinehook.io/docs/security/verifying-downloads
