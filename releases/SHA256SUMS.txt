@@ -6,3 +6,8 @@
 #
 # For the user-facing guide see:
 #   https://pinehook.io/docs/security/verifying-downloads
+
+# ---------------------------------------------------------------
+# 2026-04-25 · EA v0.0.0
+# ---------------------------------------------------------------
+01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b  PineHook-0.0.0.ex5
