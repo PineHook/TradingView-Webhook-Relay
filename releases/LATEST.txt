@@ -1,3 +1,4 @@
 # Overwritten on every release. Shows only the currently-served versions.
 # Format: <64-hex-sha256>  <filename>
 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b  PineHook-0.0.0.ex5
+01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b  PineHook-0.0.0.dll
