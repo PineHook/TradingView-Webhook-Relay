@@ -1,4 +1,4 @@
 # Overwritten on every release. Shows only the currently-served versions.
 # Format: <64-hex-sha256>  <filename>
 0f6cd7521de1901fc3a1bbe4de8bf6b2449bd160fa883467e91fb29d9602af50  PineHook-0.0.3.ex5
-024a5d98a583381623d0f2f0d8f573f77138542327e3adb8c80edc6c114e46da  PineHook-0.0.2.dll
+8d0e48b147d8cefd144287f70d6a852506045b4a0497d468fca12f21cd203037  PineHook-0.0.3.dll
