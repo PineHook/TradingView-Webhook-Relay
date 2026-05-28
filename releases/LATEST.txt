@@ -1,3 +1,3 @@
 # Overwritten on every release. Shows only the currently-served bundle.
 # Format: <64-hex-sha256>  <filename>
-1f6102416061928ceb1aca09e1aa7a4be0771da5e868fdaf1b4978874afb7bcc  PineHook-0.0.3.zip
+19c7070db180aa665464ad4d32daa6ee22ddc2ce980a4079f66f65c2d21c2d74  PineHook-0.0.4.zip
