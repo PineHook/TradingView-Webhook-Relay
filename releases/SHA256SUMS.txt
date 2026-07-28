@@ -7,3 +7,11 @@
 #
 # For the user-facing guide see:
 #   https://pinehook.io/docs/security/verifying-downloads
+
+# ---------------------------------------------------------------
+# 2026-07-28 · Bundle v0.0.7 (EA v0.0.7, DLL v0.0.3)
+# ---------------------------------------------------------------
+37ff234ebfb3146484e5febcf279680d9f09d4cf4c4929384380d18a744fd774  PineHook-0.0.7.zip
+# Embedded:
+2769c5cf960df9004ccf87882bc814a801fe3d9217d0cff1f00a06c880690721  MQL5/Experts/PineHook.ex5
+940d621e4526b568ca00d5d39ed4ddfa6246fe5c20877237aef0b4f1f610f3e7  MQL5/Libraries/PineHook.dll
