@@ -87,3 +87,11 @@ ac68c11bb2475ca3a27794df96ad3498d2d6ea9a612bf5efe4cfb9dc2da8c98d  MQL5/Libraries
 # Embedded:
 6b50ca03a1992c498f4b2d945ac4ff5a78c194a5ac4ffab28929c9443dc1c329  MQL5/Experts/PineHook.ex5
 65ebf355248cd3876ee646ed2aeb41a0cea18deeaeb389ae1a359754c33d127b  MQL5/Libraries/PineHook.dll
+
+# ---------------------------------------------------------------
+# 2026-11-03 · Bundle v0.0.17 (EA v0.0.17, DLL v0.0.6)
+# ---------------------------------------------------------------
+67a636d9aeab93617700fca17a09a2470d3be42e44b96e100ad299b12d38b3a1  PineHook-0.0.17.zip
+# Embedded:
+10943e24cf903061d304c04f7dd642428c0cbeb6042c0010a405b5b7af573f95  MQL5/Experts/PineHook.ex5
+65ebf355248cd3876ee646ed2aeb41a0cea18deeaeb389ae1a359754c33d127b  MQL5/Libraries/PineHook.dll
